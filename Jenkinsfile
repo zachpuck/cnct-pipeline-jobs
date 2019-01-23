@@ -25,7 +25,7 @@ agent {
         removedJobAction: 'DELETE',
         removedViewAction: 'DELETE',
         ignoreExisting: false,
-        sandbox: true
+        sandbox: false
     }
   }
 }
