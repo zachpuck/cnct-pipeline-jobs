@@ -5,7 +5,7 @@ pipelineJob('agent-cleanup') {
   definition {
     cps {
       script(readFileFromWorkspace('scripts/agent-cleanup.groovy'))
-      sandbox()
+      sandbox(false)
     }
   }
 
