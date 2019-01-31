@@ -1,0 +1,10 @@
+---
+type: cnct
+uniqueId: pipeline-socketio
+displayName: socketio-chat-demo
+description: pipeline demonstration
+apiUrl: "https://api.github.com"
+org: samsung-cnct
+repo: socketio-chat-demo
+keepDays: 10
+credentials: github-access
