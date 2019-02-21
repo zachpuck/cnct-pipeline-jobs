@@ -1,0 +1,10 @@
+---
+type: cnct
+uniqueId: pipeline-kind-demo
+displayName: pipeline kind demo
+description: Demonstration of using kind with cnct-pipeline-library
+apiUrl: "https://api.github.com"
+org: samsung-cnct
+repo: pipeline-demo-kind
+keepDays: 10
+credentials: github-access
